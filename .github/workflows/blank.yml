@@ -1,0 +1,7 @@
+Create a GitHub Actions workflow named NEXORA APK Build.
+
+Build my existing Android Kotlin project into a debug APK using Gradle.
+
+Use Java 17, build the APK, and upload the generated APK as an artifact named NEXORA-APK.
+
+Do not modify or delete my existing app source files.
